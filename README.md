@@ -348,6 +348,7 @@ For cross-provider comparisons, consult independent benchmark methodologies in a
 - **[Replit Agent](https://replit.com/agent)**: Advanced AI agent within Replit that builds complete applications from natural language descriptions.
 - **[Devin AI](https://devin.ai/)**: An autonomous AI software engineer that can plan, code, debug, and deploy projects end-to-end.
 - **[Qoder](https://qoder.com/)**: Agentic Coding Platform for Real Software Think Deeper. Build Better.
+- **[YYLO](https://github.com/yylo-dev/yylo)**: Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries.
 
 ### Code Completion & Autocompletion
 - **[GitHub Copilot](https://github.com/features/copilot)**: AI-driven code completion tool for real-time suggestions in IDEs.
