@@ -972,6 +972,7 @@ For cross-provider comparisons, consult independent benchmark methodologies in a
 - **[Phoenix](https://phoenix.arize.com/)**: Open-source observability and evaluation platform for AI applications.
 - **[Opik](https://www.comet.com/site/products/opik)**: Platform for evaluating, testing, and monitoring LLM applications.
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)**: Open-source toolkit for evaluating and red-teaming LLM applications.
+- **[YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark)**: Open-source benchmark suite that evaluates coding-agent harnesses on typed tasks with blinded per-step judging.
 
 ### Local & Private AI
 - **[LM Studio](https://lmstudio.ai)**: Graphical interface to discover and run local models (GGUF).
