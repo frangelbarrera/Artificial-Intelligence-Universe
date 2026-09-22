@@ -865,6 +865,7 @@ For cross-provider comparisons, consult independent benchmark methodologies in a
 - **[D-ID](https://www.d-id.com/)**: Create and interact with talking avatars at the touch of a button.
 - **[ShortVideoGen](https://shortgen.video/)**: Create short videos with audio using text prompts.
 - **[Clipwing](https://clipwing.pro/)**: A tool for cutting long videos into dozens of short clips.
+- **[shortshort](https://www.shortshort.io)**: Turns one long talk, podcast or course into vertical 9:16 shorts with word-by-word captions.
 - **[Recast Studio](https://recast.studio)**: AI powered podcast marketing assistant.
 - **[Based AI](https://www.basedlabs.ai/)**: AI Intuitive Interface for Video creating.
 - **[klingai](https://app.klingai.com/global)**: AI creative studio boasts AI image and video generation capabilities.
