@@ -539,6 +539,7 @@ For cross-provider comparisons, consult independent benchmark methodologies in a
 - **[PulseMCP Server Directory](https://www.pulsemcp.com/servers)**: Large, frequently updated directory of MCP servers, including trending, official, and community servers across many.
 - **[MCPServers.Net](https://mcpservers.net/)**: Comprehensive MCP server navigation platform, featuring official and community servers, tutorials, and resources.
 - **[RunAPI MCP Server](https://github.com/runapi-ai/mcp)**: MCP server for running image, video, music/audio, and other model API jobs through RunAPI.
+- **[Statsnet MCP](https://github.com/usenetstate/statsnet-mcp)**: Remote MCP for worldwide company background checks (registration, executives, courts, finances). Endpoint: `https://statsnet.co/mcp`.
 
 ##  Text & Writing Tools
 
