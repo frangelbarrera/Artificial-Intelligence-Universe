@@ -225,7 +225,7 @@ Before submitting, confirm all items:
 
 ## Review Process
 
-- **Response time**: We aim to review PRs within 7 days. If you haven't heard back after a week, feel free to ping the PR with a comment.
+- **Review process**: PRs are reviewed as maintainer availability allows. Please follow up with a comment if additional context is needed. If you haven't heard back after a week, feel free to ping the PR with a comment.
 - **Changes requested**: If we ask for changes, you have 14 days to address them. PRs without activity after 14 days may be closed (you're welcome to reopen).
 - **Common rejection reasons**: duplicate entry, non-AI tool, marketing language, UTM tracking links, wrong format, link-farming pattern.
 - **Merging strategy**: We use **Squash and merge** to keep the commit history clean. Your contribution will appear as one commit on `main`.
