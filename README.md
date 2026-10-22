@@ -17,35 +17,29 @@ A curated directory of AI tools, agents, large language models, MCP servers, and
 
 ---
 
-## Frontier model snapshot — sources verified 2026-08-30
+## Frontier model snapshot — sources verified 2026-10-22
 
-Selected current releases, not a universal ranking. “Frontier” is used here as a practical editorial category for recently released, highly capable models with strong performance in reasoning, coding, multimodal understanding, tool use, or long-horizon agentic workflows. Model availability, pricing, context limits, safety conditions, and evaluation methods differ by provider. Follow each primary source for the latest details.
+Selected current models, not a universal ranking. Frontier status depends on the capability, benchmark, modality, availability and evaluation date. Model pricing, context limits, safety conditions and access can change quickly; follow each primary source for current details.
 
-| Model | Provider | Current signal | Primary source |
-|---|---|---|---|
-| Claude Opus 5 | Anthropic | Latest Opus release, focused on advanced coding, long-horizon agents, computer use, knowledge work, scientific research, and visual artifact generation. [1] | [Announcement][1] |
-| GPT-5.6 Sol | OpenAI | Flagship GPT-5.6 model for coding, agentic workflows, computer use, knowledge work, cybersecurity, science, and tool-heavy tasks, with an emphasis on capability per token and per dollar. [2] | [Announcement][2] |
-| Gemini 3.7 Flash | Google DeepMind | Fast multimodal workhorse with improved software engineering, web development, knowledge work, agent orchestration, and computer-use workflows. [3] | [Announcement][3] |
-| Grok 4.6 | xAI | Frontier model focused on long-running agents, coding, knowledge work, interactive applications, and visual workflows, with availability through API and selected partner platforms. [4] | [Announcement][4] |
-| DeepSeek-V4-Pro | DeepSeek | Production-oriented release with flexible reasoning effort, major agent upgrades, OpenAI Responses API support, and availability across the DeepSeek application and API. [5] | [Release note][5] |
-| Kimi K3 | Moonshot AI | Flagship multimodal model designed for long-horizon coding, knowledge work, deep reasoning, and a 1M-token context window. [6] | [Research release][6] |
-| Muse Spark 1.1 | Meta Superintelligence Labs | Multimodal reasoning model for agentic tasks, tool and computer use, coding, long-context workflows, and visual understanding; available through the Meta Model API preview. [7] | [Announcement][7] |
-| GLM-5.3-Flash | Z.ai | Natively multimodal, open-weight model optimized for efficient inference, long-context workloads, coding, agentic tasks, and lower-cost deployment. [8] | [Research release][8] |
+| Model | Provider | Current signal | Availability | Primary source |
+|---|---|---|---|---|
+| GPT-6 Astra | OpenAI | OpenAI's highest-capability model for the most demanding reasoning, coding, scientific and agentic workloads. | API and selected OpenAI products | [OpenAI model comparison][1] |
+| Claude Opus 5.5 | Anthropic | Frontier model for agentic coding, computer use and knowledge work, with a focus on long-horizon tasks and safety. | Claude Platform, AWS, Google Cloud and Microsoft Azure | [Anthropic announcement][2] |
+| Gemini 4 Argon | Google DeepMind | Frontier model for complex coding, enterprise knowledge work, multimodal analysis and cybersecurity defense; reports a 1M-token output limit. | Phased access, initially trusted defenders and selected testers | [Announcement][3] [Model card][4] |
+| GPT-6.1 Sol | OpenAI | Near-Astra performance on several coding, computer-use and professional-work evaluations at substantially lower cost. | API, ChatGPT Work and Codex; availability varies by product | [OpenAI announcement][5] |
+| Kimi K3 | Moonshot AI | Flagship multimodal model for long-horizon coding and knowledge work with a 1M-token context window. | Kimi API and supported Moonshot channels | [Moonshot documentation][6] |
 
-For cross-provider comparisons, consult independent benchmark methodologies in addition to provider announcements. Scores reported by providers may use different prompts, harnesses, sampling settings, judges, and evaluation dates; they should not be interpreted as a single universal leaderboard.
+The entries above should be read as a dated editorial snapshot rather than a single leaderboard. Provider-reported benchmark results are not directly comparable when prompts, harnesses, sampling settings, tools or evaluation dates differ. For cross-provider comparisons, use independent methodology and keep evidence and cost attached to each result; [BenchLM's frontier index][7] is one reference point, not a definitive ranking.
 
 ### References
 
-[1]: https://www.anthropic.com/news/claude-opus-5 "Anthropic — Introducing Claude Opus 5"
-[2]: https://openai.com/index/gpt-5-6/ "OpenAI — GPT-5.6: Frontier intelligence that scales with your ambition"
-[3]: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/ "Google — Introducing Gemini 3.7 Flash"
-[4]: https://x.ai/news/grok-4-6 "xAI — Introducing Grok 4.6"
-[5]: https://api-docs.deepseek.com/news/news260813/ "DeepSeek API Docs — DeepSeek-V4-Pro GA Release"
-[6]: https://www.kimi.ai/blog/kimi-k3 "Moonshot AI — Kimi K3"
-[7]: https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/ "Meta Superintelligence Labs — Introducing Muse Spark 1.1"
-[8]: https://z.ai/blog/glm-5.3-flash "Z.ai — GLM-5.3-Flash: Frontier Intelligence, Flash Cost"
-
-
+[1]: https://openai.com/index/introducing-gpt-6-1-sol/ "OpenAI — GPT-6.1 Sol and GPT-6 Astra comparison"
+[2]: https://www.anthropic.com/claude-opus-5-5 "Anthropic — Introducing Claude Opus 5.5"
+[3]: https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/ "Google DeepMind — Gemini 4 Argon"
+[4]: https://deepmind.google/models/model-cards/gemini-4-argon/ "Google DeepMind — Gemini 4 Argon model card"
+[5]: https://openai.com/index/introducing-gpt-6-1-sol/ "OpenAI — Introducing GPT-6.1 Sol"
+[6]: https://platform.moonshot.ai/docs/guide/kimi-k3-quickstart "Moonshot AI — Kimi K3 quickstart"
+[7]: https://benchlm.ai/frontier-ai-models "BenchLM — Frontier AI Models index"
 ---
 
 ##  Quick Navigation Index
