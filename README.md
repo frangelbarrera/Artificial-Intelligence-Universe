@@ -563,6 +563,7 @@ The entries above should be read as a dated editorial snapshot rather than a sin
 - **[dmwithme](https://dmwithme.com)**: AI companion with realistic emotions that can disagree, get moody, and challenge you.
 
 ### Search & Research Tools
+- **[DisconfirmAI](https://disconfirmai.com/en/app/chat)**: AI-assisted company and AI concept explanations with source links; sign-in required.
 - **[Kazimir.ai](https://kazimir.ai/)**: A search engine designed to search AI-generated images.
 - **[Perplexity AI](https://www.perplexity.ai/)**: AI powered search tools.
 - **[Metaphor](https://metaphor.systems/)**: Language model powered search.
