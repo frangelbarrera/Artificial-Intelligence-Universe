@@ -866,6 +866,7 @@ The entries above should be read as a dated editorial snapshot rather than a sin
 - **[klingai](https://app.klingai.com/global)**: AI creative studio boasts AI image and video generation capabilities.
 - **[Sisif](https://sisif.ai/)**: AI Video Generator: Turn Text into Stunning Videos in Seconds.
 - **[Elai](https://elai.io/)**: Create AI videos from just text.
+- **[Seedance Now](https://seedancenow.com/)**: Multi-model text-to-video and image-to-video studio (Seedance 2.5, Kling 4.0, Wan 3.0), up to 30s at 1080p.
 
 ### Animation
 - **[WonderDynamics](https://wonderdynamics.com/)**: An AI tool that automatically animates, lights and composes CG characters into a live-action scene.
