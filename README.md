@@ -878,6 +878,7 @@ The entries above should be read as a dated editorial snapshot rather than a sin
 ##  Industry-Specific Tools
 
 ### Marketing & Sales
+- **[Google Ads Transparency MCP](https://github.com/GeminiGeorge22/google-ads-transparency-mcp)**: MCP server for competitor Google ads from the Google Ads Transparency Center: new, running and stopped.
 - **[Jasper AI](https://www.jasper.ai/)**: AI-powered tool for generating marketing content like blogs, emails, and ad copy.
 - **[Mutiny](https://www.mutinyhq.com/)**: Personalization platform to improve website conversions using AI.
 - **[Clearbit](https://clearbit.com/)**: Lead enrichment and data intelligence platform.
