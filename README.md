@@ -755,6 +755,7 @@ The entries above should be read as a dated editorial snapshot rather than a sin
 - **[Make-A-Scene](https://ai.facebook.com/blog/greater-creative-control-for-ai-image-generation)**: Meta research method for controllable multimodal text-to-image generation.
 - **[DragGAN](https://github.com/XingangPan/DragGAN)**: Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold.
 - **[Canva](https://www.canva.com/)**: Generate and Edit your Pictures with the help of AI.
+- **[MakeImg](https://makeimg.ai/)**: AI photo generator that turns a text prompt or reference photo into a new image, with 11 models and free daily credits.
 
 ### Image Editing & Enhancement
 - **[Craiyon](https://www.craiyon.com/)**: Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
