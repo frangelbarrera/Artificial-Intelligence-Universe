@@ -867,6 +867,7 @@ The entries above should be read as a dated editorial snapshot rather than a sin
 - **[klingai](https://app.klingai.com/global)**: AI creative studio boasts AI image and video generation capabilities.
 - **[Sisif](https://sisif.ai/)**: AI Video Generator: Turn Text into Stunning Videos in Seconds.
 - **[Elai](https://elai.io/)**: Create AI videos from just text.
+- **[Imagera](https://imagera.ai)**: Browser studio that runs many AI video and image models side by side, with Character IDs that keep a face or product the same across clips; also voice and music.
 
 ### Animation
 - **[WonderDynamics](https://wonderdynamics.com/)**: An AI tool that automatically animates, lights and composes CG characters into a live-action scene.
