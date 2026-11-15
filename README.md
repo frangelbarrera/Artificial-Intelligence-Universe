@@ -533,6 +533,7 @@ The entries above should be read as a dated editorial snapshot rather than a sin
 - **[PulseMCP Server Directory](https://www.pulsemcp.com/servers)**: Large, frequently updated directory of MCP servers, including trending, official, and community servers across many.
 - **[MCPServers.Net](https://mcpservers.net/)**: Comprehensive MCP server navigation platform, featuring official and community servers, tutorials, and resources.
 - **[RunAPI MCP Server](https://github.com/runapi-ai/mcp)**: MCP server for running image, video, music/audio, and other model API jobs through RunAPI.
+- **[No Stairs Please MCP](https://nostairsplease.com/mcp)**: Remote MCP server for searching small live-music venues across all 50 US states, DC, and British Columbia with load-in, stage, and tour-routing data.
 
 ##  Text & Writing Tools
 
