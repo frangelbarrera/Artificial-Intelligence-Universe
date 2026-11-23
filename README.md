@@ -528,6 +528,7 @@ The entries above should be read as a dated editorial snapshot rather than a sin
 - **[MCP So](https://mcp.so/)**: Platform for MCP server resources and community.
 - **[MCP Market](https://mcpmarket.com/)**: Marketplace for MCP-related tools and services.
 - **[Cursor MCP Directory](https://cursor.directory/mcp)**: Directory of MCP servers and tools curated by Cursor.
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.
 - **[VSCode MCP Directory](https://code.visualstudio.com/mcp)**: Official VSCode directory for MCP servers and integrations.
 - **[Claude MCP Servers](https://www.claudemcp.com/servers)**: Claude's curated list of MCP servers.
 - **[PulseMCP Server Directory](https://www.pulsemcp.com/servers)**: Large, frequently updated directory of MCP servers, including trending, official, and community servers across many.
