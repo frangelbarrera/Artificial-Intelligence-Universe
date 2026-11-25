@@ -907,6 +907,7 @@ The entries above should be read as a dated editorial snapshot rather than a sin
 - **[Flair.ai](https://flair.ai)**: Generation of professional product photography in seconds.
 
 ### Human Resources
+- **[Aethel](https://aethel.pro/for-companies)**: First-round AI interviewer that says it is an AI and scores answers with quotes from the candidate.
 - **[Juicebox](https://juicebox.ai)**: Talent search and AI-assisted recruitment.
 - **[Lattice](https://lattice.com)**: Performance management and organizational culture with predictive insights.
 - **[Leapsome](https://leapsome.com)**: Platform for employee development and continuous feedback.
