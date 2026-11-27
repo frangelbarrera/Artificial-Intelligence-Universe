@@ -232,6 +232,7 @@ The entries above should be read as a dated editorial snapshot rather than a sin
 - **[Aixyz](https://www.aixyz.co)**: Discover 1,500+ AI tools with smart filters, comparisons, and curated collections.
 - **[AI Tools Saver](https://www.aitoolsaver.com/)**: Your Favorite AI Tools with Discounts
 - **[AIChief](https://aichief.com)**: #1 AI Tools Directory created exclusively for businesses, AI explorers, and curious minds alike!
+- **[AIHuntList](https://aihuntlist.com)**: Navigation hub for 3,000+ AI apps across 200+ categories.
 - **[Ask AI For It](https://askaiforit.com)**: AI Tools and SaaS Directory to boost your productivity at work and in life.
 
 ### Specialized Directories
